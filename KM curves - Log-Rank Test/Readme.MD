@@ -1,4 +1,4 @@
-**Kaplan-Meier Survival Curves and the Log-Rank Test
+Kaplan-Meier Survival Curves and the Log-Rank Test
 
 ___
 
