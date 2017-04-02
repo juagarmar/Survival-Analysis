@@ -1,1 +1,2 @@
-## an introduction
+## an introduction - how to use the data set ##
+data<-read.table("https://raw.githubusercontent.com/juagarmar/Survival-Analysis/master/Data/whas500.dat")
